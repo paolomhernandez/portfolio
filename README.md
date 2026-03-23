@@ -46,6 +46,7 @@ I spent 3+ years in finance building automated reporting systems, managing P&L, 
 - 🟢 **Full Stack Data Analytics** — RevoU *(Feb 2026)*
 - 🟣 **SQL Basic · Intermediate · Advanced** — HackerRank *(Feb 2026)*
 - 🟣 **Python Basic** — HackerRank *(Feb 2026)*
+- 🟣 **Problem Solving** — HackerRank *(Feb 2026)*
 
 ---
 

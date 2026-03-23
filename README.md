@@ -20,12 +20,12 @@ I spent 3+ years in finance building automated reporting systems, managing P&L, 
 
 | Project | Tools | Highlight |
 |---|---|---|
-| [🛍 GiftCraft UK — Retail Analysis](#) | Python · SQL · EDA | Diagnosed 91% churn rate; improved retention by 10% |
-| [💰 RevoFinance — Budget Dashboard](#) | Tableau · Geospatial | Flagged 111% budget overages across 1,000 transactions |
-| [💳 RevoBank — Credit Card Personas](#) | Python · SQL | Segmented 5,599 records into 4 customer personas |
-| [🛒 TokoBli — Campaign & A/B Test](#) | Python · Statistics | Validated Rp84,000 uplift per transaction (p=0) |
-| [📦 RevoGrocers — Sales Performance](#) | SQL | Identified top category at Rp556M via SQL analysis |
-| [📉 Revoshion — Profit Decline RCA](#) | SQL · Business Strategy | Traced 13.6% profit drop despite 20.4% sales growth |
+| [🛍 GiftCraft UK — Retail Analysis](https://drive.google.com/file/d/1xbrlbLh7rPxxcP6ehMQ2q3ZkQOLwjdRG/view) | Python · SQL · EDA | Diagnosed 91% churn rate; improved retention by 10% |
+| [💰 RevoFinance — Budget Dashboard](https://drive.google.com/file/d/1tbdLntFz1-rAbAksMoRH-2yj1b4MPgw-/view) | Tableau · Geospatial | Flagged 111% budget overages across 1,000 transactions |
+| [💳 RevoBank — Credit Card Personas](https://drive.google.com/file/d/1DqFglD7Lf64Pix9sQ1wWSj_mg6CqKBus/view) | Python · SQL | Segmented 5,599 records into 4 customer personas |
+| [🛒 TokoBli — Campaign & A/B Test](https://drive.google.com/file/d/1hhKyk1wKiB2zQfJsth5mpbRj79KTtZAG/view) | Python · Statistics | Validated Rp84,000 uplift per transaction (p=0) |
+| [📦 RevoGrocers — Sales Performance](https://drive.google.com/file/d/1SChV4XtPzl0-UW3GMWJE69NEqxylwle_/view) | SQL | Identified top category at Rp556M via SQL analysis |
+| [📉 Revoshion — Profit Decline RCA](https://drive.google.com/file/d/1NGD33a37d2jRy6nfi3gKwe_AdHf2cQT9/view) | SQL · Business Strategy | Traced 13.6% profit drop despite 20.4% sales growth |
 
 > 🔗 **Full portfolio:** [paolomhernandez.github.io/portfolio](https://paolomhernandez.github.io/portfolio)
 

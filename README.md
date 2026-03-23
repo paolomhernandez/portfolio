@@ -35,7 +35,7 @@ I spent 3+ years in finance building automated reporting systems, managing P&L, 
 
 - **+15%** project margin increase through costing analysis
 - **95%** revenue forecast accuracy in Oil & Gas projects
-- **-20%** reporting turnaround time via automated templates
+- **20%** reporting turnaround time via automated templates
 - **100%** variance alignment across multi-level financial reports
 
 ---
